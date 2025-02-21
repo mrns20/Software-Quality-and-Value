@@ -1,0 +1,22 @@
+C:\Users\jimmy\source\repos\Payroll_Lib\Payroll_Lib\bin\Debug\net8.0\Payroll_Lib.deps.json
+C:\Users\jimmy\source\repos\Payroll_Lib\Payroll_Lib\bin\Debug\net8.0\Payroll_Lib.dll
+C:\Users\jimmy\source\repos\Payroll_Lib\Payroll_Lib\bin\Debug\net8.0\Payroll_Lib.pdb
+C:\Users\jimmy\source\repos\Payroll_Lib\Payroll_Lib\obj\Debug\net8.0\Payroll_Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimmy\source\repos\Payroll_Lib\Payroll_Lib\obj\Debug\net8.0\Payroll_Lib.AssemblyInfoInputs.cache
+C:\Users\jimmy\source\repos\Payroll_Lib\Payroll_Lib\obj\Debug\net8.0\Payroll_Lib.AssemblyInfo.cs
+C:\Users\jimmy\source\repos\Payroll_Lib\Payroll_Lib\obj\Debug\net8.0\Payroll_Lib.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\source\repos\Payroll_Lib\Payroll_Lib\obj\Debug\net8.0\Payroll_Lib.dll
+C:\Users\jimmy\source\repos\Payroll_Lib\Payroll_Lib\obj\Debug\net8.0\refint\Payroll_Lib.dll
+C:\Users\jimmy\source\repos\Payroll_Lib\Payroll_Lib\obj\Debug\net8.0\Payroll_Lib.pdb
+C:\Users\jimmy\source\repos\Payroll_Lib\Payroll_Lib\obj\Debug\net8.0\ref\Payroll_Lib.dll
+C:\Users\jimmy\OneDrive\Documents\2024-2025\Projects\Ποιότητα και Αξιοπιστία Λογισμικού\Μέρος_Β\Payroll_Lib\Payroll_Lib\bin\Debug\net8.0\Payroll_Lib.deps.json
+C:\Users\jimmy\OneDrive\Documents\2024-2025\Projects\Ποιότητα και Αξιοπιστία Λογισμικού\Μέρος_Β\Payroll_Lib\Payroll_Lib\bin\Debug\net8.0\Payroll_Lib.dll
+C:\Users\jimmy\OneDrive\Documents\2024-2025\Projects\Ποιότητα και Αξιοπιστία Λογισμικού\Μέρος_Β\Payroll_Lib\Payroll_Lib\bin\Debug\net8.0\Payroll_Lib.pdb
+C:\Users\jimmy\OneDrive\Documents\2024-2025\Projects\Ποιότητα και Αξιοπιστία Λογισμικού\Μέρος_Β\Payroll_Lib\Payroll_Lib\obj\Debug\net8.0\Payroll_Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimmy\OneDrive\Documents\2024-2025\Projects\Ποιότητα και Αξιοπιστία Λογισμικού\Μέρος_Β\Payroll_Lib\Payroll_Lib\obj\Debug\net8.0\Payroll_Lib.AssemblyInfoInputs.cache
+C:\Users\jimmy\OneDrive\Documents\2024-2025\Projects\Ποιότητα και Αξιοπιστία Λογισμικού\Μέρος_Β\Payroll_Lib\Payroll_Lib\obj\Debug\net8.0\Payroll_Lib.AssemblyInfo.cs
+C:\Users\jimmy\OneDrive\Documents\2024-2025\Projects\Ποιότητα και Αξιοπιστία Λογισμικού\Μέρος_Β\Payroll_Lib\Payroll_Lib\obj\Debug\net8.0\Payroll_Lib.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\OneDrive\Documents\2024-2025\Projects\Ποιότητα και Αξιοπιστία Λογισμικού\Μέρος_Β\Payroll_Lib\Payroll_Lib\obj\Debug\net8.0\Payroll_Lib.dll
+C:\Users\jimmy\OneDrive\Documents\2024-2025\Projects\Ποιότητα και Αξιοπιστία Λογισμικού\Μέρος_Β\Payroll_Lib\Payroll_Lib\obj\Debug\net8.0\refint\Payroll_Lib.dll
+C:\Users\jimmy\OneDrive\Documents\2024-2025\Projects\Ποιότητα και Αξιοπιστία Λογισμικού\Μέρος_Β\Payroll_Lib\Payroll_Lib\obj\Debug\net8.0\Payroll_Lib.pdb
+C:\Users\jimmy\OneDrive\Documents\2024-2025\Projects\Ποιότητα και Αξιοπιστία Λογισμικού\Μέρος_Β\Payroll_Lib\Payroll_Lib\obj\Debug\net8.0\ref\Payroll_Lib.dll
